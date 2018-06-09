@@ -1,0 +1,7 @@
+body{
+    background: rgb(173, 25, 25);
+}
+#root{
+    background: url("../img/1.png");
+    height: 700px;
+}
